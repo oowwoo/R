@@ -1,3 +1,3 @@
 "Hi,I'm master branch"
 
-"Hi,I'm branch02"//merge modify
+"Hi,I'm branch02"//make Conflict
